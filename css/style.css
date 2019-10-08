@@ -1,0 +1,104 @@
+/*CSS Created By Mir Mohammas ABu Kyum */
+html{
+    font-size: 18px;
+}
+.sidebar{
+    width: 30%;
+    background-color: black;
+    min-height: 570px;
+    float: left;
+}
+.main{
+    width: 70%;
+    background-color: gray;
+    min-height: 570px;
+    float: left;
+}
+img{
+    border-radius: 50%;
+    width: 150px;
+}
+.sidebar h3{
+    color: white;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.contact{
+    color: white;
+    font-weight: bold;
+}
+.skills{
+    color: white;
+    font-weight: bold;
+}
+.skills{
+    color: white;
+    font-weight: bold;
+    
+}
+.extra{
+    color: white;
+    font-weight: bold;
+}
+}
+
+/*Progress Bar*/
+			.container {
+				width: 100%;
+			}
+			
+			.progress-bar {
+				width: 100%;
+				background-color: #000000;
+				padding: 0px;
+				border-radius: 3px;
+			}
+			
+			.progress-bar-fill {
+				display: block;
+				height: 22px;
+				background-color: orange;
+				border-radius: 3px;
+			}
+.personal{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.career{
+    color: white;
+    margin-top: 55px;
+}
+.education{
+    color: white;
+}.seminar{
+    color: white;
+}
+.achievement{
+    color: white;
+}
+.jobs{
+    color: white;
+    margin-bottom: 50px;
+}
+.activites{color: white;}
+
+.footer{
+    text-align: center;
+    margin-top: 15px;
+    clear: both;
+}
+.padd{
+    padding-left: 20px;
+}
+hr{
+    height: 3px;
+    background-color: burlywood;
+}
+ul {
+    list-style-type: circle;
+}
